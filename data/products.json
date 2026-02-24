@@ -5,7 +5,7 @@
     "line": "Icon Collection",
     "color": "Blush Pink",
     "price": 12800,
-    "image": "/media/bag-1.svg",
+    "image": "/media/pin-1.jpg",
     "description": "Structured top-handle bag with polished gold hardware."
   },
   {
@@ -14,7 +14,7 @@
     "line": "Croc Luxe",
     "color": "Hot Pink",
     "price": 14900,
-    "image": "/media/bag-2.svg",
+    "image": "/media/pin-2.jpg",
     "description": "High-gloss crocodile texture with statement silhouette."
   },
   {
@@ -23,7 +23,7 @@
     "line": "City Signature",
     "color": "Soft Rose",
     "price": 9800,
-    "image": "/media/bag-3.svg",
+    "image": "/media/pin-3.jpg",
     "description": "Compact shoulder style for day-to-night elegance."
   },
   {
@@ -32,7 +32,7 @@
     "line": "Runway Edit",
     "color": "Berry Pink",
     "price": 11000,
-    "image": "/media/bag-4.svg",
+    "image": "/media/pin-4.jpg",
     "description": "Bold silhouette with smooth leather and iconic lock."
   },
   {
@@ -41,7 +41,7 @@
     "line": "Runway Edit",
     "color": "Rosewood",
     "price": 9300,
-    "image": "/media/bag-5.svg",
+    "image": "/media/pin-5.jpg",
     "description": "Everyday luxury tote with elevated craftsmanship."
   },
   {
@@ -50,7 +50,7 @@
     "line": "Modern Mini",
     "color": "Ruby Pink",
     "price": 7600,
-    "image": "/media/bag-6.svg",
+    "image": "/media/pin-6.jpg",
     "description": "Mini evening bag with strong geometric profile."
   },
   {
@@ -59,7 +59,7 @@
     "line": "Soft Atelier",
     "color": "Powder Pink",
     "price": 8700,
-    "image": "/media/bag-7.svg",
+    "image": "/media/pin-7.jpg",
     "description": "Lightweight shoulder bag with relaxed luxury finish."
   },
   {
@@ -68,7 +68,7 @@
     "line": "Travel Luxe",
     "color": "Cherry Rose",
     "price": 8200,
-    "image": "/media/bag-8.svg",
+    "image": "/media/pin-8.jpg",
     "description": "Crossbody design with practical interior and chic edge."
   }
 ]
