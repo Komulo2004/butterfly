@@ -1,5 +1,5 @@
 (() => {
-  const TOKEN_KEY = "pink_bag_studio_token";
+  const TOKEN_KEY = "butterfly_token";
 
   async function request(path, options = {}) {
     const token = localStorage.getItem(TOKEN_KEY);

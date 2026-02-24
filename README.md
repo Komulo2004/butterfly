@@ -1,4 +1,4 @@
-# Pink Bag Studio
+# Butterfly
 
 Luxury pink handbag full-stack web app with:
 - Frontend landing page + protected app page + dedicated video page
@@ -44,20 +44,20 @@ npm start
 
 ## Publish To Your GitHub
 
-If your repo is `pink-bag-studio` under `DIYA73`:
+If your repo is `butterfly` under `DIYA73`:
 
 ```bash
 git init
 git add .
-git commit -m "Initial commit: Pink Bag Studio full-stack app"
+git commit -m "Initial commit: Butterfly full-stack app"
 git branch -M main
-git remote add origin https://github.com/DIYA73/pink-bag-studio.git
+git remote add origin https://github.com/DIYA73/butterfly.git
 git push -u origin main
 ```
 
 If the remote already exists, run:
 ```bash
-git remote set-url origin https://github.com/DIYA73/pink-bag-studio.git
+git remote set-url origin https://github.com/DIYA73/butterfly.git
 ```
 
 ## Customize Your Video

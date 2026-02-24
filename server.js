@@ -88,7 +88,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, "public")));
 
 app.get("/api/health", (req, res) => {
-  res.json({ ok: true, app: "pink-bag-studio", now: new Date().toISOString() });
+  res.json({ ok: true, app: "butterfly", now: new Date().toISOString() });
 });
 
 app.post("/api/auth/register", async (req, res) => {
@@ -221,5 +221,5 @@ app.get("*", (req, res) => {
 
 app.listen(PORT, () => {
   // eslint-disable-next-line no-console
-  console.log(`Pink Bag Studio running on http://localhost:${PORT}`);
+  console.log(`Butterfly running on http://localhost:${PORT}`);
 });

@@ -8,7 +8,7 @@
   const resetFiltersBtn = document.getElementById("resetFiltersBtn");
   const saveBoardBtn = document.getElementById("saveBoardBtn");
 
-  const BOARD_STORAGE_KEY = "pink_bag_board_order";
+  const BOARD_STORAGE_KEY = "butterfly_board_order";
 
   let allProducts = [];
   let visibleProducts = [];
