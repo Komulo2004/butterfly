@@ -1,65 +1,64 @@
 # Butterfly
 
-Luxury pink handbag full-stack web app with:
-- Frontend landing page + protected app page + dedicated video page
-- Backend API with register/login (JWT auth)
-- Drag-and-drop bag board (move one bag next to another)
-- Famous luxury boutique locations with map links
+Luxury pink handbag web experience built with a modern full-stack setup.
+
+## Overview
+Butterfly is a high-energy digital luxury app featuring:
+- Secure user authentication (register/login)
+- Interactive bag styling board with drag-and-drop
+- Video showcase page
+- Signature pink collection powered by backend API
+- Global boutique location discovery
 
 ## Tech Stack
-- Node.js + Express
-- JSON file storage
-- Vanilla HTML/CSS/JS frontend
+- Node.js
+- Express.js
+- Vanilla HTML, CSS, JavaScript
+- JWT authentication
+- JSON-based data storage
 
-## Quick Start
+## Project Structure
+.
+|-- server.js
+|-- package.json
+|-- data/
+|   |-- products.json
+|   |-- shops.json
+|   `-- users.json
+`-- public/
+    |-- index.html
+    |-- app.html
+    |-- video.html
+    |-- css/
+    |-- js/
+    `-- media/
 
-1. Install dependencies:
+## Run Locally
 ```bash
 npm install
-```
-
-2. Create environment file:
-```bash
 cp .env.example .env
-```
-
-3. Start server:
-```bash
 npm start
 ```
 
-4. Open:
+App runs at:
 - Home: http://localhost:4000
-- Video page: http://localhost:4000/video.html
-- Protected app: http://localhost:4000/app.html
+- App: http://localhost:4000/app.html
+- Video: http://localhost:4000/video.html
 
 ## API Endpoints
-
 - `POST /api/auth/register`
 - `POST /api/auth/login`
-- `GET /api/auth/me` (Bearer token)
+- `GET /api/auth/me`
 - `GET /api/products`
 - `GET /api/shops`
-- `GET /api/private/dashboard` (Bearer token)
+- `GET /api/private/dashboard`
 
-## Publish To Your GitHub
-
-If your repo is `butterfly` under `DIYA73`:
-
+## GitHub Publish
 ```bash
-git init
 git add .
-git commit -m "Initial commit: Butterfly full-stack app"
-git branch -M main
-git remote add origin https://github.com/DIYA73/butterfly.git
+git commit -m "Update Butterfly"
 git push -u origin main
 ```
 
-If the remote already exists, run:
-```bash
-git remote set-url origin https://github.com/DIYA73/butterfly.git
-```
-
-## Customize Your Video
-
-Replace the video source in `public/video.html` with your own `.mp4` campaign video for handbag runway content.
+## Customize Media
+Replace media files in `public/media` and update `data/products.json` image paths if needed.
